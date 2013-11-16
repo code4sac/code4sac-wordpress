@@ -1,0 +1,6 @@
+[12-Aug-2013 04:26:56 UTC] PHP Fatal error:  Cannot redeclare twentythirteen_widgets_init() (previously declared in /home/hailyhnl/public_html/sandbox/coders/wp-content/themes/code4sac/functions.php:7) in /home/hailyhnl/public_html/sandbox/coders/wp-content/themes/twentythirteen/functions.php on line 245
+[12-Aug-2013 04:28:11 UTC] PHP Fatal error:  Cannot redeclare twentythirteen_widgets_init() (previously declared in /home/hailyhnl/public_html/sandbox/coders/wp-content/themes/code4sac/functions.php:7) in /home/hailyhnl/public_html/sandbox/coders/wp-content/themes/twentythirteen/functions.php on line 245
+[12-Aug-2013 04:28:14 UTC] PHP Fatal error:  Cannot redeclare twentythirteen_widgets_init() (previously declared in /home/hailyhnl/public_html/sandbox/coders/wp-content/themes/code4sac/functions.php:7) in /home/hailyhnl/public_html/sandbox/coders/wp-content/themes/twentythirteen/functions.php on line 245
+[21-Sep-2013 05:04:16 UTC] PHP Fatal error:  Class 'Example' not found in /home/hailyhnl/public_html/code4sac.org/coders/wp-content/plugins/bbpress/includes/admin/converter.php on line 1298
+[23-Sep-2013 21:07:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hailyhnl/public_html/code4sac.org/coders/wp-content/plugins/tweet-blender/lib/lib.php on line 1003
+[23-Sep-2013 21:07:00 UTC] table not found
