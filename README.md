@@ -1,5 +1,7 @@
 #Code4Sac website
 
+## Still work in progress. This install does not currently work... Sorry.
+
 ## Installing this repo
 1. Clone this repo
 2. Clone wp-brigade-widgets into coders/wp-content/plugins (See plugins section below)
